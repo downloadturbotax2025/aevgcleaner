@@ -10,7 +10,7 @@ Step-by-Step Guide to Activating AVG Using Your License Key
    :align: center
    :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: Screenshot_31-removebg-preview.png
    :width: 350px
    :align: center
    :height: 100px
